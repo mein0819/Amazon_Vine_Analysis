@@ -21,3 +21,4 @@ The data is furthur grouped into reviews that had 20 or more total votes and whi
 
 From this dataframe, the reviews are separated into two dataframes of paid and unpaid Vine reviews
 
+![paid reviews](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/paidDF.png)
