@@ -11,3 +11,9 @@ The purpose of this project was to analyze reviews that were written through Ama
 
 ## Results
 
+To begin the analysis of positive reviews, a Vine dataframe is created to hold information related to star ratings and votes
+
+![vineDF](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/vineTable.png)
+
+The data is furthur grouped into reviews that had 20 or more helpful votes and which the percentage of helpful votes is 50% or higher
+
