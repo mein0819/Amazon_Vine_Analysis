@@ -34,4 +34,10 @@ The analysis for the paid Vine reviews shows the following:
 
 The analysis for the unpaid Vine reviews show the following: 
 
+![unpaid5star](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/unpaid5star.png)
+
+- There were 105,962 total unpaid Vine reviews
+- 67,568 of those reviews were 5 star
+- 63.77 of unpaid Vine music reviews were 5 stars
+
 
