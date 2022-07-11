@@ -24,3 +24,14 @@ From this dataframe, the reviews are separated into two dataframes of paid and u
 ![paid reviews](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/paidDF.png)
 
 ![unpaid reviews](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/unpaidDF.png)
+
+The analysis for the paid Vine reviews shows the following:
+
+![paid5star](https://github.com/mein0819/Amazon_Vine_Analysis/blob/main/readMeImages/paid5star.png)
+
+- There were 7 total paid Vine reviews
+- 0 reviews had a 5 star rating, so 0% of paid Vine music reviews were 5 stars
+
+The analysis for the unpaid Vine reviews show the following: 
+
+
