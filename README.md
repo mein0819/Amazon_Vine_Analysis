@@ -40,4 +40,7 @@ The analysis for the unpaid Vine reviews show the following:
 - 67,568 of those reviews were 5 star
 - 63.77 of unpaid Vine music reviews were 5 stars
 
+## Summary
+
+Due to the small sample size of the paid Vine reviews it's hard to determine whether there is any positivity bias in the reviews. A 63% 5 star rate out of 105,962 unpaid reviews shows a tendency towards bias though. For futher analysis, widening the criteria for which reviews are included may help with the sample size issue, or else a different data set may need to be used all together to get a better picture of positivity bias between paid and unpaid reviewers to determine whether the Vine program is worth investing in. 
 
